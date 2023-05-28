@@ -83,4 +83,6 @@ Enjoy exploring the Flutter application!
 
 ## Project Specifications
 
+https://github.com/ruslan-durrani/No-Hassel/assets/71668800/47739c19-0da3-4178-83b1-4d2cd4689fbc
+
 
