@@ -24,10 +24,11 @@ This is a Flutter application created by [Your Name]. This guide will help you d
 ## Downloading the Zip File
 
 1. Go to the [GitHub repository]([link-to-your-repository](https://github.com/ruslan-durrani/No-Hassel/blob/main/no_hassel.zip)).
-2. Click on the green **Code** button.
-3. Select **Download ZIP**.
-4. Save the ZIP file to your desired location on your computer.
-5. Extract the contents of the ZIP file to a folder.
+2. Make sure you select no-hassel.zip
+3. Click on the green **Code** button.
+4. Select **Download ZIP**.
+5. Save the ZIP file to your desired location on your computer.
+6. Extract the contents of the ZIP file to a folder.
 
 ## Setting Up the Environment
 
