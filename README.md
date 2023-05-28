@@ -23,7 +23,7 @@ This is a Flutter application created by [Your Name]. This guide will help you d
 
 ## Downloading the Zip File
 
-1. Go to the [GitHub repository](link-to-your-repository).
+1. Go to the [GitHub repository]([link-to-your-repository](https://github.com/ruslan-durrani/No-Hassel/blob/main/no_hassel.zip)).
 2. Click on the green **Code** button.
 3. Select **Download ZIP**.
 4. Save the ZIP file to your desired location on your computer.
