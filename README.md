@@ -89,4 +89,8 @@ Enjoy exploring the Flutter application!
 
 https://github.com/ruslan-durrani/No-Hassel/assets/71668800/47739c19-0da3-4178-83b1-4d2cd4689fbc
 
+Files
+![image](https://github.com/ruslan-durrani/No-Hassel/assets/71668800/d9c806f5-1269-43b7-8a66-10b29427b777)
+Dependencies
+![image](https://github.com/ruslan-durrani/No-Hassel/assets/71668800/d49f1e24-2f68-49d5-816a-70316ead180f)
 
