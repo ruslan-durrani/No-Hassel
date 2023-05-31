@@ -22,7 +22,7 @@ https://github.com/ruslan-durrani/No-Hassel/assets/71668800/571f21a7-31c4-4e0c-9
 
 # Flutter Application
 
-This is a Flutter application created by [Your Name]. This guide will help you download the zip file, set up the environment, and run the application.
+This is a Flutter application created by ARDIES(Ruslan & Danish). This guide will help you download the zip file, set up the environment, and run the application.
 
 ## Downloading the Zip File
 
